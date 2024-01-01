@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Beyza Aydeniz!</h1>
 <h3 align="center">A passionate computer engineering student in Istanbul Technical University.</h3>
 
-- 🌱 I’m currently learning and improving myself in **Java**.
-
 - 📫 How to reach me **beyzaaydeniiz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
