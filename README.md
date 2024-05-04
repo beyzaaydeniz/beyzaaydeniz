@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Beyza Aydeniz!</h1>
-<h3 align="center">A passionate computer engineering student in Istanbul Technical University.</h3>
+<h3 align="center">Computer engineering student in Istanbul Technical University.</h3>
 
 - 📫 How to reach me **beyzaaydeniiz@gmail.com**
 
